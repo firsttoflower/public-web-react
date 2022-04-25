@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={F2Flogo} className="App-logo" alt="F2F Logo" />
         <p>
-          Welcome to First to Flower!
+          Welcome to First to Flower! Check back soon for industry updates and exciting news!
         </p>
 
       </header>
