@@ -9,6 +9,7 @@ function App() {
         <img src={F2Flogo} className="App-logo" alt="F2F Logo" />
         <p>
           Welcome to First to Flower! Check back soon for industry updates and exciting news!
+          A resource center for the cannabis industry. Supporting and advocating for the cannabis industry.
         </p>
 
       </header>
